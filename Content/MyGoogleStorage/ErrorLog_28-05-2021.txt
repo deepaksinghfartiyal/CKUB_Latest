@@ -1,0 +1,33 @@
+-------------------Error Log Start-----------as on 01:20 PM
+Message htts http url: http://ub.ckatesting.com/
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:21 PM
+Message htts http url:http://localhost:16740/
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:25 PM
+Message htts http url:http://localhost:16740/
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:25 PM
+Message htts http url:http://localhost:16740/api/Designs/GetUser
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:25 PM
+Message htts http url:http://localhost:16740/api/Designs/GetUser
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:25 PM
+Message htts http url:http://localhost:16740/admin/GetAdmin?{}
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:25 PM
+Message htts http url:http://localhost:16740/Templates/Index/CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:25 PM
+Message:category------CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:25 PM
+Message:page-------
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:25 PM
+Message htts http url:http://localhost:16740/api/Designs/GetUser
+-------------------End----------------------------
+-------------------Error Log Start  -----------as on 01:25 PM
+Message htts http url:http://localhost:16740/admin/GetAdmin?{}
+-------------------End----------------------------

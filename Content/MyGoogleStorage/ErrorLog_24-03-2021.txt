@@ -1,0 +1,126 @@
+-------------------Error Log Start-----------as on 11:06 AM
+Message template Index: http://localhost:16740/Templates/Index/CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:06 AM
+Message:category------CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:06 AM
+Message:page-------
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:07 AM
+Message Builder Index:http://localhost:16740/builder?design=efa3e0d2-8dc8-4af2-ab34-9eec27b89a9f
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:07 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:10 AM
+Message Builder Index:http://localhost:16740/builder?design=efa3e0d2-8dc8-4af2-ab34-9eec27b89a9f
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:10 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:10 AM
+Message Builder Index:http://localhost:16740/builder?design=efa3e0d2-8dc8-4af2-ab34-9eec27b89a9f
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:10 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:11 AM
+Message Builder Index:http://localhost:16740/builder?design=efa3e0d2-8dc8-4af2-ab34-9eec27b89a9a
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:11 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:11 AM
+Message Builder Index:http://localhost:16740/builder?design=efa3e0d2-8dc8-4af2-ab34-9eec27b89a9f
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:11 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:13 AM
+Message Builder Index:http://localhost:16740/builder?design=efa3e0d2-8dc8-4af2-ab34-9eec27b89a9f
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:13 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:14 AM
+Message Builder Index:http://localhost:16740/builder?design=efa3e0d2-8dc8-4af2-ab34-9eec27b89a9f
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:15 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:52 AM
+Message template Index:http://localhost:16740/Templates/Index/Accessories
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:52 AM
+Message:category------Accessories
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:52 AM
+Message:page-------
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:56 AM
+Message Builder Index:http://localhost:16740/builder?design=b73d44f7-020e-4ab7-a89c-6d9862ad3b38
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:56 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:59 AM
+Message Builder Index:http://localhost:16740/builder?design=b73d44f7-020e-4ab7-a89c-6d9862ad3b39
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:59 AM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 11:59 AM
+Message Builder Index:http://localhost:16740/builder?design=b73d44f7-020e-4ab7-a89c-6d9862ad3b38
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 12:03 PM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 12:40 PM
+Message template Index:http://localhost:16740/Templates/Index/CustomUniFormKit
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:16 PM
+Message template Index:http://localhost:16740/Templates/Index/CustomUniFormKit
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:16 PM
+Message template Index:http://localhost:16740/Templates/Index/Accessories
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:16 PM
+Message:category------Accessories
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:16 PM
+Message:page-------
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:17 PM
+Message Builder Index:http://localhost:16740/builder?design=f0fd4519-175c-4025-8b16-6bc8adaf67c4
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:17 PM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:17 PM
+Message template Index:http://localhost:16740/Templates/Index/CustomTraining
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:17 PM
+Message:category------CustomTraining
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:17 PM
+Message:page-------
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:18 PM
+Message Builder Index:http://localhost:16740/builder?design=b0c76431-8ece-4fd0-98b2-9aa96ec26a7a
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:18 PM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:18 PM
+Message Builder Index:http://localhost:16740/builder?design=b0c76431-8ece-4fd0-98b2-9aa96ec26a7b
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:18 PM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:18 PM
+Message Builder Index:http://localhost:16740/builder?design=b0c76431-8ece-4fd0-98b2-9aa96ec26a7a
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 02:18 PM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------

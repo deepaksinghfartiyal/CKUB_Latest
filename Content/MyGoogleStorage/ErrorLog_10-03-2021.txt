@@ -1,0 +1,30 @@
+-------------------Error Log Start-----------as on 01:38 PM
+Message Builder Index: http://localhost:16740/builder?design=115d4696-e4cc-40c6-8817-6f83a5a6bf67
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:38 PM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:39 PM
+Message template Index:http://localhost:16740/Templates/Index/CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:39 PM
+Message:category------CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:39 PM
+Message:page-------
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:48 PM
+Message template Index:http://localhost:16740/Templates/Index/CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:48 PM
+Message:category------CustomSublimatedSinglets
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:48 PM
+Message:page-------
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:48 PM
+Message Builder Index:http://localhost:16740/builder?design=c914ebe4-44f8-4b23-93c9-19acaf6c17e5
+-------------------End----------------------------
+-------------------Error Log Start-----------as on 01:48 PM
+verify design guid after redirection:verify design guid after redirection
+-------------------End----------------------------
